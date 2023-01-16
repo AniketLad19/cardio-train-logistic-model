@@ -1,1 +1,1 @@
-# cardio-train-logistic-model
+# cardio-train
